@@ -46,7 +46,7 @@ The project is built using **vanilla JavaScript**, without any external librarie
 
 ## 🚀 Live Demo
 
-🔗 **Live Project:** `<add your deployed link here>`
+🔗 **Live Project:** `<https://shriikshet.github.io/Parallax-website/`
 
 ---
 
